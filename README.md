@@ -1,6 +1,6 @@
 # Video-Based Detection of Combat Positions and Automatic Scoring in Jiu-jitsu
 
-This is my unofficial implementation of our [paper](https://dl.acm.org/doi/10.1145/3552437.3555707).
+This is my re-implementation of our [paper](https://dl.acm.org/doi/10.1145/3552437.3555707).
 
 ## Installation
 For help please refer to the original [ViTPose repository](https://github.com/ViTAE-Transformer/ViTPose) for more details (specifically issue [#97](https://github.com/ViTAE-Transformer/ViTPose/issues/97)).
